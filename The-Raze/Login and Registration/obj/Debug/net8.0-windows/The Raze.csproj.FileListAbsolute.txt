@@ -1,0 +1,18 @@
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\bin\Debug\net8.0-windows\The Raze.exe
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\bin\Debug\net8.0-windows\The Raze.deps.json
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\bin\Debug\net8.0-windows\The Raze.runtimeconfig.json
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\bin\Debug\net8.0-windows\The Raze.dll
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\bin\Debug\net8.0-windows\The Raze.pdb
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\Login_and_Registration.LoginForm.resources
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.csproj.GenerateResource.cache
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.AssemblyInfoInputs.cache
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.AssemblyInfo.cs
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.csproj.CoreCompileInputs.cache
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.sourcelink.json
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.dll
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\refint\The Raze.dll
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.pdb
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\The Raze.genruntimeconfig.cache
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\ref\The Raze.dll
+C:\Users\minit\source\repos\DAT602-Assessment\The-Raze\Login and Registration\obj\Debug\net8.0-windows\Login_and_Registration.Properties.Resources.resources
