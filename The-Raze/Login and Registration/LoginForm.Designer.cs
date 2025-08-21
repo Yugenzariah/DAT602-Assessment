@@ -1,4 +1,4 @@
-﻿namespace Login_and_Registration
+﻿namespace DAT602_Assessment.Forms
 {
     partial class LoginForm
     {
@@ -28,75 +28,64 @@
         /// </summary>
         private void InitializeComponent()
         {
-            title = new Label();
-            usernameLbl = new Label();
-            passwordLbl = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            btnLogin = new Button();
+            txtUsername = new TextBox();
+            txtPassword = new TextBox();
+            label1 = new Label();
+            label2 = new Label();
             SuspendLayout();
             // 
-            // title
+            // btnLogin
             // 
-            title.AutoSize = true;
-            title.BackColor = Color.Transparent;
-            title.Font = new Font("Comic Sans MS", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            title.ForeColor = Color.White;
-            title.Location = new Point(183, 9);
-            title.Name = "title";
-            title.Size = new Size(393, 112);
-            title.TabIndex = 0;
-            title.Text = "The Raze";
+            btnLogin.Location = new Point(354, 322);
+            btnLogin.Name = "btnLogin";
+            btnLogin.Size = new Size(75, 23);
+            btnLogin.TabIndex = 0;
+            btnLogin.Text = "Login";
+            btnLogin.UseVisualStyleBackColor = false;
             // 
-            // usernameLbl
+            // txtUsername
             // 
-            usernameLbl.AutoSize = true;
-            usernameLbl.BackColor = Color.Transparent;
-            usernameLbl.Font = new Font("Comic Sans MS", 22.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            usernameLbl.ForeColor = Color.White;
-            usernameLbl.Location = new Point(95, 151);
-            usernameLbl.Name = "usernameLbl";
-            usernameLbl.Size = new Size(212, 51);
-            usernameLbl.TabIndex = 1;
-            usernameLbl.Text = "Username:";
+            txtUsername.Location = new Point(344, 148);
+            txtUsername.Name = "txtUsername";
+            txtUsername.Size = new Size(100, 23);
+            txtUsername.TabIndex = 1;
             // 
-            // passwordLbl
+            // txtPassword
             // 
-            passwordLbl.AutoSize = true;
-            passwordLbl.BackColor = Color.Transparent;
-            passwordLbl.Font = new Font("Comic Sans MS", 22.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            passwordLbl.ForeColor = Color.White;
-            passwordLbl.Location = new Point(108, 229);
-            passwordLbl.Name = "passwordLbl";
-            passwordLbl.Size = new Size(199, 51);
-            passwordLbl.TabIndex = 2;
-            passwordLbl.Text = "Password:";
+            txtPassword.Location = new Point(344, 219);
+            txtPassword.Name = "txtPassword";
+            txtPassword.Size = new Size(100, 23);
+            txtPassword.TabIndex = 2;
             // 
-            // textBox1
+            // label1
             // 
-            textBox1.Location = new Point(293, 172);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(209, 27);
-            textBox1.TabIndex = 3;
+            label1.AutoSize = true;
+            label1.Location = new Point(257, 156);
+            label1.Name = "label1";
+            label1.Size = new Size(60, 15);
+            label1.TabIndex = 3;
+            label1.Text = "Username";
             // 
-            // textBox2
+            // label2
             // 
-            textBox2.Location = new Point(293, 250);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(209, 27);
-            textBox2.TabIndex = 4;
+            label2.AutoSize = true;
+            label2.Location = new Point(257, 227);
+            label2.Name = "label2";
+            label2.Size = new Size(57, 15);
+            label2.TabIndex = 4;
+            label2.Text = "Password";
             // 
             // LoginForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources._86973_3840x2160_desktop_4k_post_apocalypse_wallpaper_image;
-            BackgroundImageLayout = ImageLayout.Zoom;
             ClientSize = new Size(800, 450);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
-            Controls.Add(passwordLbl);
-            Controls.Add(usernameLbl);
-            Controls.Add(title);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(txtPassword);
+            Controls.Add(txtUsername);
+            Controls.Add(btnLogin);
             Name = "LoginForm";
             Text = "LoginForm";
             ResumeLayout(false);
@@ -105,10 +94,10 @@
 
         #endregion
 
-        private Label title;
-        private Label usernameLbl;
-        private Label passwordLbl;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private Button btnLogin;
+        private TextBox txtUsername;
+        private TextBox txtPassword;
+        private Label label1;
+        private Label label2;
     }
 }
